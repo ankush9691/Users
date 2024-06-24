@@ -1,0 +1,39 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "Gertrudis Tatterton",
+        "age": 18,
+        "email": "gtatterton0@ehow.com",
+        "password":"123456"
+      },
+      {
+        "id": 2,
+        "name": "Gail Newbatt",
+        "age": 53,
+        "email": "gnewbatt1@un.org",
+        "password":"123456"
+      },
+      {
+        "id": 3,
+        "name": "Walliw Wilstead",
+        "age": 49,
+        "email": "wwilstead2@tripadvisor.com",
+        "password":"123456"
+      },
+      {
+        "id": 4,
+        "name": "Abran Proback",
+        "age": 29,
+        "email": "aproback3@theglobeandmail.com",
+        "password":"123456"
+      },
+      {
+        "id": 5,
+        "name": "Roda Chappelow",
+        "age": 31,
+        "email": "rchappelow4@oaic.gov.au",
+        "password":"123456"
+      }
+    ]
+  }
